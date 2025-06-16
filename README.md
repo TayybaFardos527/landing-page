@@ -18,8 +18,7 @@ A fully responsive and interactive website focused on elder care, built using **
 
 ## 📸 Preview
 
-(images/screenshot.png)  
-*Homepage preview of the "Get an Intervention" website.*
+(screenshot.png)  
 
 
 ## 📂 How to Run
